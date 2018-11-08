@@ -45,6 +45,7 @@ jwillmer:
 dramalamas:
   initial:      dramalamas
   name:         "Team DramaLamas"        
+  cover:        /assets/mountain-alternative-cover.jpg  
   picture:      /assets/dramalamas.png  
   bio:          Ralley Team 
   location:     Germany 
@@ -52,4 +53,3 @@ dramalamas:
   website:      "http://dramalamas.tours/cv" 
   twitter:      dramalamas
   youtube:      dramalamas
-  github:       dramalamas

@@ -1,6 +1,6 @@
 default:                                                      # Fallback if nothing is specified
-  initial:      jdecent                                       # used for author lookup in posts and for first two characters in the about page back button
-  name:         "Jekyll Decent"                               # used to display author name
+  initial:      dramalamas                                       # used for author lookup in posts and for first two characters in the about page back button
+  name:         "DramaLamas"                               # used to display author name
   cover:        /assets/mountain-alternative-cover.jpg        # OPTIONAL: defines location of cover image in about page
   picture:      /assets/johndoe.jpg                           # OPTIONAL: author picture
   bio:          This is my bio!                               # OPTIONAL: text below author name in posts
@@ -42,3 +42,14 @@ jwillmer:
   website:      "http://jwillmer.de/cv" 
   twitter:      jenswillmer
   github:       jwillmer
+dramalamas:
+  initial:      dramalamas
+  name:         "Team DramaLamas"        
+  picture:      /assets/dramalamas.png  
+  bio:          Ralley Team 
+  location:     Germany 
+  email:        "info@dramalamas.tours" 
+  website:      "http://dramalamas.tours/cv" 
+  twitter:      dramalamas
+  youtube:      dramalamas
+  github:       dramalamas

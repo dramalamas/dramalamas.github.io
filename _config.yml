@@ -10,7 +10,7 @@ title:            jekyllDecent
 subtitle:         Example Blog
 description:      This is the jekyllTheme example blog. It only exists to demonstrate how the theme looks and feels.
 keywords:         demo theme example github jekyll features
-language:         "en" # default language of the blog. Language codes: http://www.w3schools.com/tags/ref_language_codes.asp
+language:         "de" # default language of the blog. Language codes: http://www.w3schools.com/tags/ref_language_codes.asp
 
 baseurl:          "/jekyllDecent" # the subpath of your site, e.g. /blog
 url:              "" # the base hostname & protocol for your site. Have a look at robots.txt as well!
@@ -40,4 +40,3 @@ compress_html:
     envs: [local]
   blanklines: true
   startings: [head, body]
-theme: jekyll-theme-cayman

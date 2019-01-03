@@ -43,7 +43,7 @@ excerpt:   Das Team DramaLamas stellt sich vor.
     </div>
 </div>
 
-{% assign cv = site.data.cv[rabea] %}
+{% assign cv = site.data.cv["rabea"] %}
 <div class="md-card shadow">
     <div class="title icon-stats-bars">
         <h2>Rabea</h2>
@@ -57,7 +57,7 @@ excerpt:   Das Team DramaLamas stellt sich vor.
     </div>
 </div>
 
-{% assign cv = site.data.cv[laura] %}
+{% assign cv = site.data.cv["laura"] %}
 <div class="md-card shadow">
     <div class="title icon-stats-bars">
         <h2>Laura</h2>
@@ -71,7 +71,7 @@ excerpt:   Das Team DramaLamas stellt sich vor.
     </div>
 </div>
 
-{% assign cv = site.data.cv[milchbroetchen] %}
+{% assign cv = site.data.cv["milchbroetchen"] %}
 <div class="md-card shadow">
     <div class="title icon-stats-bars">
         <h2>Milchbrötchen</h2>

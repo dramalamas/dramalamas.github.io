@@ -32,7 +32,49 @@ excerpt:   Das Team DramaLamas stellt sich vor.
 {% assign cv = site.data.cv[cdecker] %}
 <div class="md-card shadow">
     <div class="title icon-stats-bars">
-        <h2>Cdecker</h2>
+        <h2>Christian</h2>
+    </div>
+    <div class="content">
+        <ul>
+            {% for skill in cv.skills %}
+            <li>{{ skill }}</li>
+            {% endfor %}
+        </ul>
+    </div>
+</div>
+
+{% assign cv = site.data.cv[rabea] %}
+<div class="md-card shadow">
+    <div class="title icon-stats-bars">
+        <h2>Rabea</h2>
+    </div>
+    <div class="content">
+        <ul>
+            {% for skill in cv.skills %}
+            <li>{{ skill }}</li>
+            {% endfor %}
+        </ul>
+    </div>
+</div>
+
+{% assign cv = site.data.cv[laura] %}
+<div class="md-card shadow">
+    <div class="title icon-stats-bars">
+        <h2>Laura</h2>
+    </div>
+    <div class="content">
+        <ul>
+            {% for skill in cv.skills %}
+            <li>{{ skill }}</li>
+            {% endfor %}
+        </ul>
+    </div>
+</div>
+
+{% assign cv = site.data.cv[milchbroetchen] %}
+<div class="md-card shadow">
+    <div class="title icon-stats-bars">
+        <h2>Milchbrötchen</h2>
     </div>
     <div class="content">
         <ul>

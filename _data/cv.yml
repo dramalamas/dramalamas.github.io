@@ -2,13 +2,41 @@ dramalamas:
     profile: "Hallo, wir sind das Team DramaLamas. Wir nehmen an der Balkan Ralley teil."
 
 tomate:
-    profile: "Integer sit amet libero non sapien sagittis dapibus."
+    profile: "Team Leader, ich brauch hier noch Holz"
+    skills:
+        - "eigenes Fleisch räuchern."
+        - "eignen Schnaps ansetzen"
+        - "fährt gern Auto"
+        - "Namensgeber des Milchbrötchens"
+
 cdecker:
-    profile: "Integer sit amet libero non sapien sagittis dapibus."
+    profile: "Das wird bestimmt lustig..."
+    skills:
+        - "macht was mit Computern"
+        - "schaut gern Weltraum Dokus"
+        - "fährt viel Auto"
+
 rabea:
-    profile: "Integer sit amet libero non sapien sagittis dapibus."
+    profile: "..."
+    skills:
+        - "hat viele Autos"
+        - "fährt viel Fahrrad"
+        - "Sekt"
+        
 laura:
-    profile: "Integer sit amet libero non sapien sagittis dapibus."
+    profile: "Ich rechne das mal durch."
+    skills:
+        - "eigenes Auto steht viel in der Garage"
+        - "fährt viel Bahn"
+        - "Sekt"
+
+milchbroetchen:
+    profile: "Volvo 850, grün, wenig km"
+    skills:
+        - "25 Jahre"
+        - "112.000 km"
+        - "70 Liter Tank"
+        - "fährt sich wie in einem Milchbrötchen"
 
 jdecent:
     profile: "Integer sit amet libero non sapien sagittis dapibus. Phasellus gravida quam ac nisl finibus dictum. Pellentesque vel orci et nisi pretium tincidunt nec a diam. Vivamus et leo eu lorem congue pellentesque id sed tortor. Nulla et nibh neque. Sed ut fermentum lectus, id rhoncus erat."

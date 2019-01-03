@@ -6,12 +6,43 @@ keywords:  about person dramalamas
 title:     DramaLamas Team
 menutitle: Über
 weight:    90
-excerpt:   Diese Seite beschreibt das Team DramaLamas.
---- 
+excerpt:   Das Team DramaLamas stellt sich vor.
+---
 <script async defer src="https://buttons.github.io/buttons.js"></script>
+{% assign cv = site.data.cv[page.author] %}
 
-Hallo,
-wir sind das Team DramaLamas. Wir nehmen an der Balkan Ralley teil.
+<div class="md-card no-border">
+    <p>{{cv.profile}}</p>
+</div>
+
+{% assign cv = site.data.cv[tomate] %}
+<div class="md-card shadow">
+    <div class="title icon-stats-bars">
+        <h2>Tomate</h2>
+    </div>
+    <div class="content">
+        <ul>
+            {% for skill in cv.skills %}
+            <li>{{ skill }}</li>
+            {% endfor %}
+        </ul>
+    </div>
+</div>
+
+{% assign cv = site.data.cv[cdecker] %}
+<div class="md-card shadow">
+    <div class="title icon-stats-bars">
+        <h2>Cdecker</h2>
+    </div>
+    <div class="content">
+        <ul>
+            {% for skill in cv.skills %}
+            <li>{{ skill }}</li>
+            {% endfor %}
+        </ul>
+    </div>
+</div>
+
 
 <!--
 <p class="github-button-container">

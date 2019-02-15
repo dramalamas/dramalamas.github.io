@@ -14,7 +14,9 @@ math:			   false
 
 Wir haben ein, nein zwei, Maskottchen Maskottchen!!! Jetzt fehlt uns noch ein Name. 
 
-<div class="bg-scroll" style="background-image: url('{{ "/media/img/maskottchen.jpg" }}')"></div>
+<div class="large">
+   ![maskottchen]({{ "/media/img/maskottchen.jpg" | absolute_url }})
+</div>
 
 Unsere Liste der Termini:
 

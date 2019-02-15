@@ -1,7 +1,7 @@
 ---
 layout:            post
 title:             "Milchbrötchen ist zugelassen"
-menutitle:         "Milchbrötchen darf auf Straßen fahren"
+menutitle:         "Auf die Straße"
 date:              2018-11-20 20:00:00 +0100
 tags:              Milchbrötchen, Auto
 author:            cdecker

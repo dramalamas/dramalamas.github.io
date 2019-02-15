@@ -14,9 +14,11 @@ math:			   false
 
 Wir haben ein, nein zwei, Maskottchen Maskottchen!!! Jetzt fehlt uns noch ein Name. 
 
-<div class="large">
+
+<figure class="large" markdown="1">   
    ![]({{ "/media/img/maskottchen.jpg" | absolute_url }})
-</div>
+   <figcaption>Unsere beiden Maskottchen</figcaption>
+</figure>
 
 Unsere Liste der Termini:
 

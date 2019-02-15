@@ -18,9 +18,9 @@ Nach unserem [Autokauf](/blog/Autokauf) darf das Milchbrötchen nun endlich auch
 
 Zur Entwirrung nochmal alle Termini:
 
-* *Dramalamas*: das ist der Teamname
-* *Milchbrötchen*: so heißt das Auto
-* *ES-EL 2019*: das ist das Kennzeichen des Milchbrötchens
+* **Dramalamas**: das ist der Teamname
+* **Milchbrötchen**: so heißt das Auto
+* **ES-EL 2019**: das ist das Kennzeichen des Milchbrötchens
 
 <figure>
    <img src="{{ "/media/img/milchbroetchen_zugelassen.jpg" | absolute_url }}" />

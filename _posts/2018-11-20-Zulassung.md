@@ -23,7 +23,7 @@ Zur Entwirrung nochmal alle Termini:
 * *ES-EL 2019*: das ist das Kennzeichen des Milchbrötchens
 
 <figure>
-   <img src="{{ "/media/img/milchbroetchen_schilder.jpg" | absolute_url }}" />
+   <img src="{{ "/media/img/milchbroetchen_zugelassen.jpg" | absolute_url }}" />
    <figcaption>Milchbrötchen bei Tag und zugelassen</figcaption>
 </figure>
 

@@ -9,6 +9,12 @@ weight:    90
 excerpt:   Das Team DramaLamas stellt sich vor.
 ---
 <script async defer src="https://buttons.github.io/buttons.js"></script>
+
+<!--
+    Data files with jekyll
+    https://jekyllrb.com/docs/datafiles/
+-->
+
 {% assign cv = site.data.cv[page.author] %}
 
 <div class="md-card no-border">

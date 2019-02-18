@@ -21,7 +21,7 @@ Wir haben ein, nein zwei, Maskottchen Maskottchen!!! Jetzt fehlt uns noch ein Na
 
 Unsere Liste der Termini:
 
-* **Dramalamas**: das ist der Teamname
+* **DramaLamas**: das ist der Teamname
 * **Milchbrötchen**: so heißt das Auto
 * **ES-EL 2019**: das ist das Kennzeichen des Milchbrötchens
 * **???**: das ist der Name des Maskottchen

@@ -9,7 +9,7 @@ thomas:
     profile: "Team Leader, ich brauch hier noch Holz"
     skills:
         - "Käpt'n, oh Käpt'n"
-        - "Da wird schon nichts passieren - Hoppla"
+        - "\"Da wird schon nichts passieren - Hoppla.\""
         - "Selbstversorger"
         - "mag Hase Nr.1"
 
@@ -26,7 +26,7 @@ rabea:
     skills:
         - "Künstlerin"
         - "fährt gern Fahrrad"
-        - "Schatz, das ist so, das muss man nicht googlen."
+        - "\"Schatz, das ist so, das muss man nicht googeln.\""
         - "Sekt"
         
 laura:

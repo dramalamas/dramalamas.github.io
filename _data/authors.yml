@@ -2,7 +2,7 @@ default:                                                      # Fallback if noth
   initial:      dramalamas                                       # used for author lookup in posts and for first two characters in the about page back button
   name:         "DramaLamas"                               # used to display author name
   cover:        /assets/mountain-alternative-cover.jpg        # OPTIONAL: defines location of cover image in about page
-  picture:      /assets/dramalamas.jpg                        # OPTIONAL: author picture
+  picture:      /assets/dramalamas.png                        # OPTIONAL: author picture
   bio:          DramaLamas Team                               # OPTIONAL: text below author name in posts
   location:     Germany                                       # OPTIONAL: used to display location of the author
   website:                          						  # OPTIONAL: link to the author of a post

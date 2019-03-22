@@ -8,30 +8,33 @@ dramalamas:
 thomas:
     profile: "Team Leader, ich brauch hier noch Holz"
     skills:
-        - "eigenes Fleisch räuchern."
-        - "eignen Schnaps ansetzen"
-        - "fährt gern Auto"
-        - "Namensgeber des Milchbrötchens"
+        - "Käpt'n, oh Käpt'n"
+        - "Da wird schon nichts passieren - Hoppla"
+        - "Selbstversorger"
+        - "mag Hase Nr.1"
 
 cdecker:
     profile: "Das wird bestimmt lustig..."
     skills:
-        - "macht was mit Computern"
-        - "schaut gern Weltraum Dokus"
+        - "1. Wissenschaftsoffizier"
         - "fährt viel Auto"
+        - "Das glaub' ich nicht, das muss ich googlen"
+        - "macht was mit Computern"
 
 rabea:
     profile: "..."
     skills:
-        - "hat viele Autos"
-        - "fährt viel Fahrrad"
+        - "Künstlerin"
+        - "fährt gern Fahrrad"
+        - "Schatz, das ist so, das muss man nicht googlen."
         - "Sekt"
         
 laura:
     profile: "Ich rechne das mal durch."
     skills:
+        - "Rätsellöserin"
         - "eigenes Auto steht viel in der Garage"
-        - "fährt viel Bahn"
+        - "Hase Nr. 1"
         - "Sekt"
 
 milchbroetchen:

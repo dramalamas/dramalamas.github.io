@@ -23,7 +23,6 @@ Unsere Liste der Termini:
 
 * **DramaLamas**: das ist der Teamname
 * **Milchbrötchen**: so heißt das Auto
-* **ES-EL 2019**: das ist das Kennzeichen des Milchbrötchens
 * **???**: das ist der Name des Maskottchen
 
 

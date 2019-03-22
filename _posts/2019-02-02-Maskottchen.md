@@ -5,7 +5,7 @@ menutitle:         "Unser Maskottchen"
 date:              2019-02-02 20:00:00 +0100
 tags:              Maskottchen, Team 
 author:            cdecker
-cover:             /media/img/mountain2.jpg
+cover:             /media/img/maskottchen_cover.jpg
 published:         true
 language:          DE
 comments:          false

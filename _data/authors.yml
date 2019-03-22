@@ -26,7 +26,7 @@ default:                                                      # Fallback if noth
 dramalamas:
   initial:      dramalamas
   name:         "Team DramaLamas"
-  cover:        /assets/mountain-alternative-cover.jpg
+  cover:        /assets/dramalamas_cover.jpg
   picture:      /assets/dramalamas.png
   bio:          Rallye Team
   location:     Germany

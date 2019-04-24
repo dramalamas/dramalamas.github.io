@@ -10,7 +10,7 @@ excerpt:   Impressum und Datenschutzerklärung / DSGVO
 ---
 <script async defer src="https://buttons.github.io/buttons.js"></script>
 
-<div style="text-align: left">
+<div class="md-card no-border">
 
 <h2>Impressum</h2>
 <p>Christian Decker<br />

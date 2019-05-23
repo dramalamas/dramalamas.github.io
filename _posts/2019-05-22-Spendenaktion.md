@@ -1,6 +1,6 @@
 ---
 layout:            post
-title:             "Spendenaktion im Kiwi in Wernau am 25.05.2019"
+title:             "Spendenaktion in Wernau am 25.05.2019"
 menutitle:         "Spendenaktion 25.05.2019 (Wernau)"
 date:              2019-05-22 20:00:00 +0100
 tags:              Spenden, Aktion, Wernau 
@@ -20,7 +20,7 @@ math:			   false
 
 Ihr könnt das DramaLamas Team und das [Milchbrötchen](Autokauf), unser Rallye Auto, kennenlernen.  Bei Kaffee und Kuchen erzählen wir Euch am diesem Samstag, was wir auf der Rallye vorhaben. Außerdem könnt ihr unsere [Maskottchen](Maskottchen) knuddeln. Also kommt am Samstag zum Schulhof der Realschule in Wernau.
 
-**Adresse **     
+**Adresse**     
 Adlerstraße 74     
 73249 Wernau (Neckar)
 

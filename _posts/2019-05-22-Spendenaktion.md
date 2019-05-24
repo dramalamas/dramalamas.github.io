@@ -12,7 +12,7 @@ comments:          false
 math:			   false
 ---
 
-**Aufgepasst...** Für unsere Charity <a href='http://balkan.superlative-adventure.com/balkan-express.html'>Balkan Express Rallye</a> sammeln wir Spenden.
+**Aufgepasst...** Im Rahmen unserer Charity <a href='http://balkan.superlative-adventure.com/balkan-express.html'>Balkan Express Rallye</a> sammeln wir Spenden für einen neuen Spielmobil-Anhänger des [Kiwi](http://www.kiwi-wernau.de/).
 
 **Wann:** 25.05.2019     
 **Zeit:** von 14 bis 17 Uhr      

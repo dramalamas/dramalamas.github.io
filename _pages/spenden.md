@@ -16,11 +16,16 @@ comments:  false
 math:      false
 ---
 
-Wir, das Team DramaLamas, werden diesen Sommer an der [Balkan Express Rallye](http://balkan.superlative-adventure.com/balkan-express.html) teilnehmen. Das Team besteht aus Thomas, dem Teamchef, sowie den Teammitgliedern Laura, Rabea und Christian. Bei der Rallye geht es darum, in einem mindestens 20 Jahre alten Auto in 13 Tagen 4.000km durch über 14 Länder zurück zu legen. Eine Teilnahmebedingung ist, Geld für einen guten Zweck zu sammeln. Es ist uns wichtig, ein Projekt zu unterstützen, zu dem wir einen persönlichen Bezug haben. Deshalb sammeln wir für das [Wernauer Jugendhaus Kiwi](http://www.kiwi-wernau.de/), das einen neuen Anhänger für ihr Spielmobil benötigen (Weitere Informationen findet ihr unter [https://www.gut-fuer-den-landkreis-esslingen.de/projects/70164](https://www.gut-fuer-den-landkreis-esslingen.de/projects/70164))
+### Infos über unsere Spendenaktion
+
+*Spenden über:* [https://betterplace.org/f32710](https://betterplace.org/f32710)
+
+
+Wir, das Team DramaLamas, werden diesen Sommer an der [Balkan Express Rallye](http://balkan.superlative-adventure.com/balkan-express.html) teilnehmen. Das Team besteht aus Thomas, dem Teamchef, sowie den Teammitgliedern Laura, Rabea und Christian. Bei der Rallye geht es darum, in einem mindestens 20 Jahre alten Auto in 13 Tagen 4.000km durch über 14 Länder zurück zu legen. Eine Teilnahmebedingung ist, Geld für einen guten Zweck zu sammeln. Es ist uns wichtig, ein Projekt zu unterstützen, zu dem wir einen persönlichen Bezug haben. Deshalb sammeln wir für das [Wernauer Jugendhaus Kiwi](http://www.kiwi-wernau.de/), das einen neuen Anhänger für ihr Spielmobil benötigen (Weitere Informationen findet ihr unter [https://www.gut-fuer-den-landkreis-esslingen.de/projects/70164](https://www.gut-fuer-den-landkreis-esslingen.de/projects/70164))     
 
 <figure>
    <img src="https://betterplace-assets.betterplace.org/uploads/project/profile_picture/000/070/164/fill_730x380_bp1556899110_IMG_0078.jpg" />
-   <figcaption>Spielmobil-Anhänger des Kiwi Wernau</figcaption>
+   <figcaption>Spielmobil-Anhänger des Kiwi (Wernau)</figcaption>
 </figure>
 
 ### Ziel

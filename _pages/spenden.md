@@ -9,6 +9,7 @@ author:    cdecker
 published: true
 date:      2019-05-22 20:00:00 +0100
 tags:      Spenden, Aktion, Wernau
+cover:     /media/img/spenden_cover.jpg
 weight:    80
 excerpt:   Spendenaktion für einen neuen Spielmobil-Anhänger für das Kiwi in Wernau
 comments:  false

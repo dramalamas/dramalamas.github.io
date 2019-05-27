@@ -18,7 +18,7 @@ Am Samstag, den 25. Mai 2019 feierte das Kiwi von 14.00 Uhr bis 17.00 Uhr den St
 
 <figure>
 <img src="{{ "/media/img/kiwisommer1.jpg" }}" />
-<figcaption>Unser Auto beim Start in den Kiwi Sommer</figcaption>
+<figcaption>Das neu gestaltete Rally-Auto</figcaption>
 </figure>
 
 <figure>
@@ -28,7 +28,7 @@ Am Samstag, den 25. Mai 2019 feierte das Kiwi von 14.00 Uhr bis 17.00 Uhr den St
 
 <figure>
 <img src="{{ "/media/img/kiwisommer3.jpg" }}" />
-<figcaption>Die DramaLamas</figcaption>
+<figcaption>Die Lamas der DramaLamas</figcaption>
 </figure>
 
 </div>

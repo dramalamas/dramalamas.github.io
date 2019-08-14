@@ -14,26 +14,24 @@
 }
 
 [class^="icon-"], [class*=" icon-"] {
-    /* use !important to prevent issues with browser extensions that change fonts */
-    
-	display: inline-block;
-	font: normal normal normal $imo-font-size-base/1 "IcoMoon Free";
+    display: inline-block;
+    font: normal normal normal $imo-font-size-base/1 "IcoMoon Free";
     font-size: inherit;
-	
-	font-family: 'IcoMoon Free' !important;
     speak: none;
-    font-style: normal;
-    font-weight: normal;
-    font-variant: normal;
-    text-transform: none;
-    line-height: 1;
+    vertical-align: $imo-v-align;
+    text-rendering: auto;
+
+    /* Enable Ligatures ================ */
+    -webkit-font-feature-settings: "liga";
+    -moz-font-feature-settings: "liga=1";
+    -moz-font-feature-settings: "liga";
+    -ms-font-feature-settings: "liga" 1;
+    -o-font-feature-settings: "liga";
+    font-feature-settings: "liga";
+    
     /* Better Font Rendering =========== */
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
-    white-space: nowrap;
-
-    &:hover {
-        text-decoration: none;
-    }
+    transform: translate(0, 0);
 }
 

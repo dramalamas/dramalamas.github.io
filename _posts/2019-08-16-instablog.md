@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "TEST: Tourblog Post" 
-menutitle: "TEST: Tourblog Post" 
-cover: https://scontent-frx5-1.cdninstagram.com/vp/257e2a59dac1e8c58e0cfe24a81e4852/5DD96AE8/t51.2885-15/e35/18013898_580115318852530_1327943135610798080_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com
+title: "Noch 6 Tage bis zum Tourstart"
+menutitle: "Noch 6 Tage bis zum Tourstart"
+cover: https://scontent-frx5-1.cdninstagram.com/vp/5c2ed69c393e752725a884c197167869/5E1609DB/t51.2885-15/e35/18722366_819677828180606_7790019679266799616_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com
 category: Tourblog
 date: 2019-08-16
 author: instablog

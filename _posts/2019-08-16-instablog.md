@@ -2,7 +2,7 @@
 layout: post
 title: "TEST: Tourblog Post" 
 menutitle: "TEST: Tourblog Post" 
-cover: https://scontent-frx5-1.cdninstagram.com/vp/79fc82c8e93fbf25391321b511aedaef/5DE6D2A7/t51.2885-15/e35/18013210_306572746429425_5288640991048237056_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com
+cover: https://scontent-frx5-1.cdninstagram.com/vp/c9d40504f558c84dada0463572ca5074/5E12216D/t51.2885-15/e35/18011463_638050576388741_3207363804354576384_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com
 category: Tourblog
 date: 2019-08-16
 author: instablog
@@ -11,7 +11,7 @@ comments: false
 math: false
 ---
 
-<figure> <img src=" https://scontent-frx5-1.cdninstagram.com/vp/ac5cb7af14777b19de69f9e94538f0fc/5DD7CA2B/t51.2885-15/e35/18011476_113373305886127_5211841929209184256_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com " /> <figcaption>By katja schloz 
+<figure><img src="https://scontent-frx5-1.cdninstagram.com/vp/ac5cb7af14777b19de69f9e94538f0fc/5DD7CA2B/t51.2885-15/e35/18011476_113373305886127_5211841929209184256_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com"/> <figcaption>By katja schloz 
 Title: art exhibition Karima Klasen, 2015
 
 Bio:
@@ -23,7 +23,7 @@ www.katjaschloz.de
 
 
 
-<figure> <img src=" https://scontent-frx5-1.cdninstagram.com/vp/5c2ed69c393e752725a884c197167869/5E1609DB/t51.2885-15/e35/18722366_819677828180606_7790019679266799616_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com " /> <figcaption>By syfon studio
+<figure><img src="https://scontent-frx5-1.cdninstagram.com/vp/5c2ed69c393e752725a884c197167869/5E1609DB/t51.2885-15/e35/18722366_819677828180606_7790019679266799616_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com"/> <figcaption>By syfon studio
 Title : POST / ERA
 Self initiated project
 The exhibition prepared for the Institute of Design in Kielce, addressing the theme of the poster as a graphical medium subjected to severe criticism by contemporary design critics. From the text promoting the exhibition: &quot;In a comic strip, which consists of a series of three-color posters, we decided to portray the terms of the poster culture / culture in Poland. In this way we add our three pennies to the big conversation, which as hiccups is reflected in the media related to graphics / design. The dispute over the poster is eternal - we are here for a moment &quot;
@@ -68,7 +68,7 @@ www.ermanyilmaz.com
 #looperman #ermanyilmaz #graphicdesign #graphic #design #designer #artist #type #artistic #Typography #vscoart #tbt #graphicdesigner #graphicart #creative #vsco #vscocam #typographer #poster #posterdesign #artwork #posters #creativity #dailyart #designeveryday #designinspiration #postereveryday #graphics #art #kolootdesign</figcaption></figure></div>
 
 
-<figure> <img src=" https://scontent-frx5-1.cdninstagram.com/vp/865ea86ba7b8a57a87be7679fedd824c/5DE258CF/t51.2885-15/e35/18812614_152879425253927_6147776918608412672_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com " /> <figcaption>By designers united
+<figure><img src="https://scontent-frx5-1.cdninstagram.com/vp/865ea86ba7b8a57a87be7679fedd824c/5DE258CF/t51.2885-15/e35/18812614_152879425253927_6147776918608412672_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com"/> <figcaption>By designers united
 
 First poster by @dimitris_koliadimas 
 Also 7th &amp; 8th

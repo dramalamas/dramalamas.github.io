@@ -2,11 +2,11 @@
 layout: post
 title: "Noch 6 Tage bis zum Tourstart"
 menutitle: "Noch 6 Tage bis zum Tourstart"
-cover: https://scontent-frx5-1.cdninstagram.com/vp/9cf7830b6200b5e09c13f1e11bed7347/5DD77135/t51.2885-15/e35/29718210_2004868326432985_8960523397004001280_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com
+cover: https://scontent-frx5-1.cdninstagram.com/vp/b99dd5ad30cf8859817ee5ca059c38db/5DDE23CA/t51.2885-15/e35/18879356_1509779765775392_4880553698461220864_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com
 category: Tourblog
 date: 2019-08-16
 author: instablog
-tags: tour
+tags: Tour
 published: true
 comments: false
 math: false

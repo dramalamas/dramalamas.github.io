@@ -35,10 +35,10 @@ layout: default
     {% endfor %}
 
 
-    <h3>Blog Posts</h3>
+    <h3>Allgemeine Nachrichten</h3>
     <ul class="category recent-posts">       
         {% for post in site.posts limit:50  %}
-        {% unless post.draft %}
+        {% unless post.category == 'Tourblog' %}
 
         {% if post.menutitle %}
         {% assign title = post.menutitle %}

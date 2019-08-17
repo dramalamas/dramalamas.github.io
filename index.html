@@ -1,15 +1,13 @@
 ---
 layout: default
 ---
-
+{% if site.data.authors and site.data.authors[page.author] %}
+{% assign author = site.data.authors[page.author] %}
+{% elsif site.data.authors %}
+{% assign author = site.data.authors[0] %}
+{% endif %}
 
 <div id="content" class="content">
-
-    {% if site.data.authors and site.data.authors[page.author] %}
-    {% assign author = site.data.authors[page.author] %}
-    {% elsif site.data.authors %}
-    {% assign author = site.data.authors[0] %}
-    {% endif %}
 
 <section class="author-profile" itemprop="author" itemscope itemtype="http://schema.org/Person">
     <div class="author-info">

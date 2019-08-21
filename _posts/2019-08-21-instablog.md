@@ -2,7 +2,7 @@
 layout: post
 title: "Noch 1 Tage bis zum Tourstart"
 menutitle: "Noch 1 Tage bis zum Tourstart"
-cover: https://scontent-ber1-1.cdninstagram.com/vp/013bf9a375cb3171b75e56383fa2c230/5DE15413/t51.2885-15/e35/67307274_2118581825112853_6174930225813807634_n.jpg?_nc_ht=scontent-ber1-1.cdninstagram.com
+cover: https://scontent-ber1-1.cdninstagram.com/vp/9ba27627971bc39ccda444d4be31cd61/5DF65143/t51.2885-15/e35/67090392_218912362411844_8085603553064579345_n.jpg?_nc_ht=scontent-ber1-1.cdninstagram.com
 category: Tourblog
 date: 2019-08-21
 author: instablog

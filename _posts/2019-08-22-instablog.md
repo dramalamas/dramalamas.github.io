@@ -2,7 +2,7 @@
 layout: post
 title: "Heute ist Tourstart"
 menutitle: "Heute ist Tourstart"
-cover: https://scontent-ber1-1.cdninstagram.com/vp/d438df2d19b771f72c449c53f86f8761/5E0A46F6/t51.2885-15/e35/67689230_152194542528226_4353040368218658436_n.jpg?_nc_ht=scontent-ber1-1.cdninstagram.com
+cover: https://scontent-ber1-1.cdninstagram.com/vp/a82c193c97d1463b98dd9727182f95c9/5DF2949E/t51.2885-15/e35/67841759_1546478752160947_8487949693371350930_n.jpg?_nc_ht=scontent-ber1-1.cdninstagram.com
 category: Tourblog
 date: 2019-08-22
 author: instablog

@@ -2,7 +2,7 @@
 layout: post
 title: "Tourtag: 10"
 menutitle: "Tourtag: 10"
-cover: https://scontent-ber1-1.cdninstagram.com/vp/067451d0973fba8e14e50a5b1aa8d351/5DF95425/t51.2885-15/e35/68848550_161602544985977_2040963406510105978_n.jpg?_nc_ht=scontent-ber1-1.cdninstagram.com
+cover: https://scontent-ber1-1.cdninstagram.com/vp/616bc1eb1467013dfb530e4efa716b22/5DF7B832/t51.2885-15/e35/67132120_154202909102552_1058438396199803378_n.jpg?_nc_ht=scontent-ber1-1.cdninstagram.com
 category: Tourblog
 date: 2019-08-31
 author: instablog
